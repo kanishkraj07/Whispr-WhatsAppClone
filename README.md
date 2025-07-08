@@ -4,7 +4,10 @@
 
 ## 📱 Demo Video
 
-https://drive.google.com/file/d/1fY7lzLPEY4nHgTU0jZlsyhMllg-R7ay6/view?usp=drive_link
+
+https://github.com/user-attachments/assets/ca8bcc62-3248-4c09-8e28-1b30a19395ec
+
+
 
 ## 🚀 Features
 
